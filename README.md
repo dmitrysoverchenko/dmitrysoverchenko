@@ -18,6 +18,7 @@
 ## 📊 GitHub stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrysoverchenko)](https://github.com/dmitrysoverchenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrysoverchenko&layout=compact)](https://github.com/dmitrysoverchenko/github-readme-stats)
 
 <!--
 **dmitrysoverchenko/dmitrysoverchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
