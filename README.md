@@ -15,6 +15,10 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Gulp-CB4545?style=for-the-badge&logo=gulp&logoColor=fff)
 
+## 📊 GitHub stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrysoverchenko)](https://github.com/dmitrysoverchenko/github-readme-stats)
+
 <!--
 **dmitrysoverchenko/dmitrysoverchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
