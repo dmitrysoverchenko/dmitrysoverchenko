@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.https://www.linkedin.com/in/dmitry-soverchenko-b43960210/)
 [![Visits Badge](https://badges.pufler.dev/visits/dmitrysoverchenko/dmitrysoverchenko)](https://github.com/dmitrysoverchenko)
 
- ## Skills 💪
+ ## 💪 My skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
