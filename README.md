@@ -3,7 +3,7 @@
 ## 📫 How to contact me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/dmitry_soverchenko)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=D54B3C)](mailto:isoverchenko@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.https://www.linkedin.com/in/dmitry-soverchenko-b43960210/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmitry-soverchenko-b43960210/)
 [![Visits Badge](https://badges.pufler.dev/visits/dmitrysoverchenko/dmitrysoverchenko)](https://github.com/dmitrysoverchenko)
 
  ## 💪 My skills
