@@ -1,4 +1,4 @@
-### Hi there, I am a Dmitry Soverchenko - junior front-end developer ✌️
+### Hi there, I am a Dmitry Soverchenko - front-end developer ✌️
 
 ## 📫 How to contact me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/dmitry_soverchenko)
